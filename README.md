@@ -5,7 +5,7 @@ In this tutorial you will learn some feature extraction methods for Audio Signal
 
 Web-app link: https://another-audio-tutorial-jxafwrm71-nevernuras-projects.vercel.app/
 
-More details: https://www.kaggle.com/code/nurafreeccss/audio-preprocessing/edit/run/307626528
+More details: [https://www.kaggle.com/code/nurafreeccss/audio-preprocessing/edit/run/307626528](https://www.kaggle.com/code/nurafreeccss/tutorial-audio-processing)
 
 # What is a Signal?
 

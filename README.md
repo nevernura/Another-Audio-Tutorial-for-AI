@@ -1,5 +1,7 @@
 
-# TUTORIAL ON AUDIO PROCESSING
+# TUTORIAL ON AUDIO PROCESSING for Machine Learning
+
+In this tutorial you will learn some feature extraction methods for Audio Signals. These fetaures can then be fed into ML models for further processing.
 
 Web-app link: https://another-audio-tutorial-jxafwrm71-nevernuras-projects.vercel.app/
 

@@ -3,7 +3,7 @@
 
 In this tutorial you will learn some feature extraction methods for Audio Signals. These fetaures can then be fed into ML models for further processing.
 
-Web-app link: https://another-audio-tutorial-jxafwrm71-nevernuras-projects.vercel.app/
+Web-app link: [https://another-audio-tutorial-jxafwrm71-nevernuras-projects.vercel.app/](https://another-audio-tutorial.vercel.app/)
 
 More details: [https://www.kaggle.com/code/nurafreeccss/audio-preprocessing/edit/run/307626528](https://www.kaggle.com/code/nurafreeccss/tutorial-audio-processing)
 
